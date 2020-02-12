@@ -1,6 +1,6 @@
 import smtplib
 import time
-print ("    Google 2019 (C) All rights are reserved.")
+print ("    Welcome to our session. This will take a few seconds if not minutes.")
 # Sender email
 email = "gmailonly"
 pswd = "gmailpassword"
